@@ -1,0 +1,79 @@
+# proj info
+site_name: 'NERVA Wiki'
+site_description: 'Wiki for NERVA'
+site_author: 'Sajo8'
+site_url: https://nervadocs.tk/
+
+# repo
+repo_name: 'sajo8/nerva-docs'
+repo_url: 'https://github.com/sajo8/nerva-docs'
+
+# copyright
+copyright: 'Copyright (C) 2018 The NERVA Project'
+
+# config
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'images/logo.png'
+  favicon: 'images/fav.ico'
+  palette:
+    primary: 'teal'
+  language: 'en'
+  direction: 'ltr'
+  feature:
+    tabs: true
+  # 404 page
+  static_templates:
+    - 404.html
+
+# customization
+extra:
+  search:
+    language: 'en'
+  social:
+    - type: 'github'
+      link: 'https://bitbucket.org/nerva-project/'
+
+# extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+  #pymdown extensions
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# directory org
+nav:
+    - Home:
+      - Home: index.md
+      - Getting Started: Getting-Started.md
+    - Guides:
+      - Wallets:
+        - Making a Wallet: wallets/Making-a-Wallet.md
+        - Making a Paper Wallet: wallets/Making-a-Paper-Wallet.md
+        - Restoring your Wallet: wallets/Restoring-your-Wallet.md
+        - CLI Wallet: wallets/Using-the-CLI-Wallet.md
+        - GUI Wallet: wallets/Using-the-GUI-Wallet.md
+
