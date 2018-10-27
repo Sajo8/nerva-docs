@@ -153,13 +153,7 @@ In windows, this can easily be done by typing in `cmd` in the address bar in Fil
 
 ![cmdexplorer](images/cmdexplorer.png)
 
-* type `nerva-wallet-cli --restore-deterministic-wallet --electrum-seed <mnemonic seed>`
-
-* replace `<mnemonic seed>` with your own. For example:
-
-```
-nerva-wallet-cli --restore-deterministic-wallet efficient sidekick around revamp foiled enraged sieve rest linen envy framed circle gearbox cabin licks succeed guest gorilla wiggle tilt optical irony acoustic around sidekick
-```
+* type `nerva-wallet-cli --restore-deterministic-wallet`
 
 * Set a name for your new wallet(for example, `nerva`)
 
