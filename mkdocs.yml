@@ -71,13 +71,15 @@ nav:
       - Getting Started: Getting-Started.md
     - Guides:
       - Wallets:
-        - Making a Wallet: wallets/Making-a-Wallet.md
-        - Making a Paper Wallet: wallets/Making-a-Paper-Wallet.md
-        - Restoring your Wallet: wallets/Restoring-your-Wallet.md
-        - CLI Wallet: wallets/Using-the-CLI-Wallet.md
-        - GUI Wallet: wallets/Using-the-GUI-Wallet.md
-#      - Mining:
-        #- How to Mine NERVA: 
-        #- Solo mining: 
+        - Making a Wallet: guides/wallets/Making-a-Wallet.md
+        - Making a Paper Wallet: guides/wallets/Making-a-Paper-Wallet.md
+        - Restoring your Wallet: guides/wallets/Restoring-your-Wallet.md
+        - CLI Wallet: guides/wallets/Using-the-CLI-Wallet.md
+        - GUI Wallet: guides/wallets/Using-the-GUI-Wallet.md
+      - Mining:
+        - How to Mine NERVA: guides/wallets/Mining.md
+        - Solo mining: guides/wallets/Solo-Miner-Guide.md
+        - Solo mining on Linux: guides/wallets/Solo-Miner-Linux-Guide.md
+        - Cloud Mining: guides/wallets/Cloud-Mining.md
       
 
