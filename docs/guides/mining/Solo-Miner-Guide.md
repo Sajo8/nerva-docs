@@ -13,15 +13,15 @@ Please know that you can only mine with *your CPU* on NERVA, and *cannot* use yo
 
 4. Wait for it to finish syncing
 
-It will display:
+    It will display:
 
-```
-**********************************************************************
-You are now synchronized with the network. You may now start nerva-wallet-cli.
+    ```
+    **********************************************************************
+    You are now synchronized with the network. You may now start nerva-wallet-cli.
 
-Use the "help" command to see the list of available commands.
-**********************************************************************
-```
+    Use the "help" command to see the list of available commands.
+    **********************************************************************
+    ```
 
 5. See [Setup and Configuration](#setup-and-config)
 
