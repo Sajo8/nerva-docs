@@ -77,9 +77,9 @@ nav:
         - CLI Wallet: guides/wallets/Using-the-CLI-Wallet.md
         - GUI Wallet: guides/wallets/Using-the-GUI-Wallet.md
       - Mining:
-        - How to Mine NERVA: guides/wallets/Mining.md
-        - Solo mining: guides/wallets/Solo-Miner-Guide.md
-        - Solo mining on Linux: guides/wallets/Solo-Miner-Linux-Guide.md
-        - Cloud Mining: guides/wallets/Cloud-Mining.md
+        - How to Mine NERVA: guides/mining/Mining.md
+        - Solo mining: guides/mining/Solo-Miner-Guide.md
+        - Solo mining on Linux: guides/mining/Solo-Miner-Linux-Guide.md
+        - Cloud Mining: guides/mining/Cloud-Mining.md
       
 
