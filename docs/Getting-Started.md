@@ -13,7 +13,7 @@ Below is essentially a checklist of tasks you have to do to get started with NER
 
 First things first, you need a wallet to hold all of sweet sweet NERVA!
 
-To view a list of them, and guides on how to set them up, you can go [here](../wallets/Making-a-Wallet)
+To view a list of them, and guides on how to set them up, you can go [here](../guides/wallets/Making-a-Wallet)
 
 ## 2. Start Mining NERVA<a name="mining"></a>
 
@@ -21,7 +21,7 @@ Mining is essentially the process of using your computer to solve complex math e
 
 If you want to learn about cryptocurrencies, mining is a great place to start!
 
-To view an in-depth guide on how to mine NERVA, you can view [this guide](../mining/Mining)
+To view an in-depth guide on how to mine NERVA, you can view [this guide](../guides/mining/Mining)
 
 ## 3. Socialize!<a name="socialize"></a>
 
