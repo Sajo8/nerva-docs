@@ -54,15 +54,15 @@
 
 It will display:
 
-```
-**********************************************************************
-You are now synchronized with the network. You may now start nerva-wallet-cli.
+    ```
+    **********************************************************************
+    You are now synchronized with the network. You may now start nerva-wallet-cli.
 
-Use the "help" command to see the list of available commands.
-**********************************************************************
-```
+    Use the "help" command to see the list of available commands.
+    **********************************************************************
+    ```
 
-10. See [Setup and Configuration](#setup-and-config)
+11. See [Setup and Configuration](#setup-and-config)
 
 ## Solo-Miner Setup and Configuration<a name="setup-and-config"></a>
 
@@ -83,9 +83,9 @@ start_mining NV2c9tuqUNRZNK4i6jahuPaDSnfYFRAcyW7t13aox32yUkWwbpTHxXYbtgYR8qQ4hPB
 Done! The miner will now begin mining. Awesome!
 
 To re-launch the miner:  
-1. Open `nervad`
-2. Wait for it to finish syncing
-3. Run the `start_mining` command
+1. Open `nervad`  
+2. Wait for it to finish syncing  
+3. Run the `start_mining` command  
 
 ## Detaching it From the Shell
 
