@@ -4,6 +4,6 @@
 
 *Currently only available on Android version 4.4(Jelly Bean, year 2012) and newer*
 
-To mine TurtleCoin on your mobile phone, you can use this app:
+To mine NERVA on your mobile phone, you can use this app:
 
-1.  [NERVA Solo Miner](../nerva-solo-miner)
+1.  [Guide Coming Soon!]()

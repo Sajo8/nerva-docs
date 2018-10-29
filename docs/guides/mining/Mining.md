@@ -19,7 +19,7 @@ There are currently a few different ways in which you can start mining NERVA:
 The solo-miner is in-built into the core software, letting you check your balance and mine at the same time.  
 Please know that you can only mine with *your CPU* on NERVA, and *cannot* use your GPU to mine NERVA
 
-Please follow [this guide](../Solo-Miner-Guide) to start mining TurtleCoin with XMR-Stak.
+Please follow [this guide](../Solo-Miner-Guide) to start mining NERVA.
 
 If you're on Linux, check [this guide](../Solo-Miner-Linux-Guide).
 
