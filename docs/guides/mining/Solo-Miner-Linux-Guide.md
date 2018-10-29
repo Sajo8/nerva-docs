@@ -72,5 +72,7 @@ Done! The miner will now begin mining. Awesome!
 
 To re-launch the miner:  
 1. Open `nervad`
+
 2. Wait for it to finish syncing
+
 3. Run the `start_mining` command
