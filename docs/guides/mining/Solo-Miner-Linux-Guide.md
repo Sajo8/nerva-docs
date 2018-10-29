@@ -40,17 +40,17 @@ If no binaries are available, or you prefer to compile, follow these instruction
 
 10. Wait for it to finish syncing
 
-It will display:
+    It will display:
 
-```
-**********************************************************************
-You are now synchronized with the network. You may now start nerva-wallet-cli.
+    ```
+    **********************************************************************
+    You are now synchronized with the network. You may now start nerva-wallet-cli.
 
-Use the "help" command to see the list of available commands.
-**********************************************************************
-```
+    Use the "help" command to see the list of available commands.
+    **********************************************************************
+    ```
 
-10. See [Setup and Configuration](#setup-and-config)
+11. See [Setup and Configuration](#setup-and-config)
 
 ## Solo-Miner Setup and Configuration<a name="setup-and-config"></a>
 
