@@ -51,7 +51,8 @@ start_mining NV2c9tuqUNRZNK4i6jahuPaDSnfYFRAcyW7t13aox32yUkWwbpTHxXYbtgYR8qQ4hPB
 
 Done! The miner will now begin mining. Awesome!
 
-To re-launch the miner:  
+To re-launch the miner:
+
 1. Open `nervad`
 
 2. Wait for it to finish syncing
