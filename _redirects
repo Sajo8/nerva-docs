@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://nervadocs.tk/* https://docs.getnerva.org/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://nerva-docs.netlify.com/* https://docs.getnerva.org/:splat 301!
