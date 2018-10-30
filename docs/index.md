@@ -2,7 +2,7 @@
 
 # Welcome to the NERVA Wiki
 
-This wiki is an unofficial collection of guides for newcomers to the NERVA Project.  
+This wiki is a collection of guides for newcomers to the NERVA Project.  
 If this is your first time hearing about NERVA, we recommend starting with the [NERVA website](https://getnerva.org).
 
 ## What is NERVA?
