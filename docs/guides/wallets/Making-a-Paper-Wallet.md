@@ -10,7 +10,7 @@ There are two options for a paper wallet.
 
 ## Making A Paper Wallet on an Internet-Connected Machine
 
-Go to [this link](https://getnerva.org/paperwallet/index.html) and follow [these steps.](#generating-the-wallet)
+Go to [this link](https://getnerva.org/#paper-wallet) and follow [these steps.](#generating-the-wallet)
 
 ## Making a Paper Wallet on an Air-Gapped Machine
 
