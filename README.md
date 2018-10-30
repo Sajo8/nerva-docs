@@ -2,7 +2,7 @@
 
 Welcome to the repository for the NERVA Wiki!
 
-The wiki is located [here](https://nervadocs.tk).
+The wiki is located [here](https://docs.getnerva.org).
 
 ## Contributing Guidelines
 
