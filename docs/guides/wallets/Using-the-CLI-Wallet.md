@@ -30,6 +30,11 @@ Run `nervad(.exe)`. It will now start syncing with the network.
 
 ![nervad-done](images/nervad-progress.png)
 
+### Importing blockchain bootstrap
+
+As a faster alternative to manually syncing, you can download the [latest blockchain bootstrap](https://getnerva.org/content/bootstrap/mainnet.raw). To import it, move the downloaded file into your Nerva folder, then open that directory in your console/terminal and run the following command: `nerva-blockchain-import --input-file mainnet.raw --verify 0` 
+(Windows users can paste that command into Notepad and save it as a .bat file in the Nerva folder, then run it)
+
 ## Using the CLI Wallet
 
 With `nervad(.exe)` still running, run `nerva-wallet-cli(.exe)`
