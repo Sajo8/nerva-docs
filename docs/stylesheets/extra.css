@@ -1,0 +1,15 @@
+[data-md-color-primary="teal"] .md-header,
+[data-md-color-primary="teal"] .md-hero {
+    background-image: -moz-linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+    background-image: -webkit-linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+    background-image: -ms-linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+    background-image: linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+}
+
+
+[data-md-color-primary="teal"] .md-tabs {
+    background-image: -moz-linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+    background-image: -webkit-linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+    background-image: -ms-linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+    background-image: linear-gradient( 90deg, rgba(85, 168, 191, 1) 0%, rgba(99, 88, 145, 1) 100%);
+}

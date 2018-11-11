@@ -38,6 +38,11 @@ extra:
     - type: 'github'
       link: 'https://bitbucket.org/nerva-project/'
 
+# add header custom color  
+extra_css:
+  - 'stylesheets/extra.css'
+
+
 # extensions
 markdown_extensions:
   - admonition
