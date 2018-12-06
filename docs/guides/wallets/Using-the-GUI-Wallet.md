@@ -36,6 +36,8 @@ The wizard will ask you to download the CLI tools. Click on “Download”
 
 ![gui-wallet](images/GUI_CLI_download.JPG)
 
+## Creating a Wallet / Restoring a Wallet
+
 After the CLI tools are downloaded, you can create a new wallet or import an existing one.
 
 ![gui-wallet](images/GUI_new_wallet.JPG)   ![gui-wallet](images/GUI_import_wallet.JPG)
