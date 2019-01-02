@@ -1,4 +1,4 @@
-# How to Set Up XMR-Stak on Linux
+# How to Set Up NERVA on Linux
 
 Native binaries may be available for your distribution's package manager.
 
