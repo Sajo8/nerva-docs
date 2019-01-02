@@ -27,4 +27,4 @@ To view an in-depth guide on how to mine NERVA, you can view [this guide](../gui
 
 We have a great community and would love for you to join in!
 
-You can join our [Discord](https://discord.gg/cTUwK5B), or our [subreddit](https://www.reddit.com/r/nerva/)! We can't wait to see you :)
+You can join us on [Discord](https://discord.gg/cTUwK5B), [Telegram](https://t.me/NervaXNV) and [Reddit](https://www.reddit.com/r/nerva/)! We can't wait to see you :)
