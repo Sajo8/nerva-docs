@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: getnerva.org
+Token: 44f031002b82ca3aedbeb9cd9d8882d5c681615f5d8f1059d1838313ab8ffaa8 
